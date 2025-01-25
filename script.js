@@ -20,7 +20,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
     // Mostrar el mensaje específico
     document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = '¡Oh Siii! jajaja teamo Daniela <3';
+    document.getElementById('messageContainer').innerHTML = '¡Oh Siii! jajaja teamo panquecito<3';
     document.getElementById('messageContainer').innerHTML = 'ahora tienes que estar conmigo para siempre jsjs'; 
 
     // Mostrar otro gif después de 3 segundos
