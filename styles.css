@@ -4,7 +4,7 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background-color: #ffffff;
+    background-color: #deb0e7;
 }
 
 .container {
@@ -39,7 +39,7 @@ button {
     margin: 10px;
     cursor: pointer;
     background-color: #FF5733; /* Rojo */
-    color: white;
+    color: rgb(255, 255, 255);
     border: 2px solid #FFC0CB; /* Bordes rosa */
     border-radius: 10px; /* Esquinas redondeadas */
 }
@@ -56,7 +56,7 @@ button {
     background-color: #641e0d; /* Cambia a otro color en hover, puedes ajustar el valor según tus preferencias */
 }
 .bg-green {
-    background-color: #ffffff; /* Nuevo color de fondo verde */
+    background-color: #4d26a8; /* Nuevo color de fondo verde */
 }
 
 #messageContainer {
